@@ -1,0 +1,13 @@
+name = "Energized Power"
+filename = "energizedpower-1.20.1-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/PxKREfjz/energizedpower-1.20.1-2.2.1.jar"
+hash-format = "sha1"
+hash = "116922f312f74f3ec8082d0fa7d75e4c8ad4f210"
+
+[update]
+[update.modrinth]
+mod-id = "6pku8gW1"
+version = "PxKREfjz"

@@ -1,0 +1,13 @@
+name = "Wooden Hopper"
+filename = "woodenhopper-1.20.1-1.6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VOUy9bAs/versions/pLSXXFEn/woodenhopper-1.20.1-1.6.0.1.jar"
+hash-format = "sha1"
+hash = "de3f0e3ab943861aa0fc385dee8f6b1f1111899b"
+
+[update]
+[update.modrinth]
+mod-id = "VOUy9bAs"
+version = "pLSXXFEn"

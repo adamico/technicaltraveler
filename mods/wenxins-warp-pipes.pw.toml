@@ -1,0 +1,13 @@
+name = "WenXin's Warp Pipes"
+filename = "warp_pipes-1.20.1-1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iJHgOq1R/versions/NrrgwcGn/warp_pipes-1.20.1-1.0-forge.jar"
+hash-format = "sha1"
+hash = "d598b3ff03832a8db7f06a14df7d38e536cfc186"
+
+[update]
+[update.modrinth]
+mod-id = "iJHgOq1R"
+version = "NrrgwcGn"

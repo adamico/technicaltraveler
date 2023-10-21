@@ -1,0 +1,13 @@
+name = "Revamped Progression"
+filename = "revamped-progression-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Efm5kYuI/versions/KOYfhah3/revamped-progression-2.0.1.jar"
+hash-format = "sha1"
+hash = "bbf12ec098ec54413b235203ad06275cc726fd3b"
+
+[update]
+[update.modrinth]
+mod-id = "Efm5kYuI"
+version = "KOYfhah3"

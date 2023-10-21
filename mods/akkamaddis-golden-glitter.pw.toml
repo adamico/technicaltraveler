@@ -1,0 +1,13 @@
+name = "akkamaddi's Golden Glitter"
+filename = "GoldenGlitter-1.20.1-5.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pncy8XFU/versions/N4ngcoDL/GoldenGlitter-1.20.1-5.0.0.0.jar"
+hash-format = "sha1"
+hash = "fa6420ea5fb41f6dd763efadbca083039388e4e9"
+
+[update]
+[update.modrinth]
+mod-id = "pncy8XFU"
+version = "N4ngcoDL"

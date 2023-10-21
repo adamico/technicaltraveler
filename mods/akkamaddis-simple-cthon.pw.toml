@@ -1,0 +1,13 @@
+name = "akkamaddi's Simple Cthon"
+filename = "Cthon-1.20.1-5.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RKwtmtXX/versions/w6befYHC/Cthon-1.20.1-5.0.0.0.jar"
+hash-format = "sha1"
+hash = "9126ca659efbf4cb0d09180f4fbc142466c27c41"
+
+[update]
+[update.modrinth]
+mod-id = "RKwtmtXX"
+version = "w6befYHC"

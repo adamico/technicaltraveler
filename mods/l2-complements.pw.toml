@@ -1,0 +1,13 @@
+name = "L2 Complements"
+filename = "l2complements-2.4.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5493bfa7c92119e806bda6429beb795f6d63ec34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4768476
+project-id = 758349

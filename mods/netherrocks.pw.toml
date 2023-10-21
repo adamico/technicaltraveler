@@ -1,0 +1,13 @@
+name = "Netherrocks"
+filename = "Netherrocks-1.20.1-6.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jsresWnw/versions/3BJbLP1O/Netherrocks-1.20.1-6.0.0.1.jar"
+hash-format = "sha1"
+hash = "a87104fa84406c26f50dcbda551dedff266e05f9"
+
+[update]
+[update.modrinth]
+mod-id = "jsresWnw"
+version = "3BJbLP1O"

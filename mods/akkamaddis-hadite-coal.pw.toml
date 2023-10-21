@@ -1,0 +1,13 @@
+name = "akkamaddi's Hadite Coal"
+filename = "Hadite-1.20.1-5.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VHQLmQ3e/versions/uHUCyedV/Hadite-1.20.1-5.0.0.1.jar"
+hash-format = "sha1"
+hash = "f2b96fde59903d2e0919cdc1a11d860d293effa7"
+
+[update]
+[update.modrinth]
+mod-id = "VHQLmQ3e"
+version = "uHUCyedV"

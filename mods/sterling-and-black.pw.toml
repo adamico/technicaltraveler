@@ -1,0 +1,13 @@
+name = "akkamaddi's Sterling and Black"
+filename = "SterlingAndBlack-1.20.1-5.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kpNPc1Ur/versions/eiNbc6SG/SterlingAndBlack-1.20.1-5.0.0.0.jar"
+hash-format = "sha1"
+hash = "2b63fb9eca6ccc6b258338c97c9f3f13123718e7"
+
+[update]
+[update.modrinth]
+mod-id = "kpNPc1Ur"
+version = "eiNbc6SG"

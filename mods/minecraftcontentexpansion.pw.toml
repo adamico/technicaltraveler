@@ -1,0 +1,13 @@
+name = "MinecraftContentExpansion"
+filename = "minecraftcontentexpansion-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N5xjDqoM/versions/qGxmiz5Q/minecraftcontentexpansion-1.0.0.jar"
+hash-format = "sha1"
+hash = "eb45b0ca2f43d6e924e6cf44b855471adc3891eb"
+
+[update]
+[update.modrinth]
+mod-id = "N5xjDqoM"
+version = "qGxmiz5Q"

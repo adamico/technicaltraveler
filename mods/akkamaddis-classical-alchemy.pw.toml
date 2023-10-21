@@ -1,0 +1,13 @@
+name = "akkamaddi's Classical Alchemy"
+filename = "ClassicalAlchemy-1.20.1-5.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PBYzH3eP/versions/Udc4vkeO/ClassicalAlchemy-1.20.1-5.0.0.0.jar"
+hash-format = "sha1"
+hash = "c95207698d6b925128cefcd0465f3ef2c4d5030a"
+
+[update]
+[update.modrinth]
+mod-id = "PBYzH3eP"
+version = "Udc4vkeO"

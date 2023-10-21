@@ -1,0 +1,13 @@
+name = "Immersive Weapons"
+filename = "immersiveweapons-1.20.1-1.27.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QZFdnUQ5/versions/ApOgxetb/immersiveweapons-1.20.1-1.27.0.jar"
+hash-format = "sha1"
+hash = "6399d0f797321afe8a01edd611ee1207f6d4711e"
+
+[update]
+[update.modrinth]
+mod-id = "QZFdnUQ5"
+version = "ApOgxetb"

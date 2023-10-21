@@ -1,0 +1,13 @@
+name = "True Herobrine"
+filename = "TrueHerobrine_1.0+Neo+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pY1lnc0y/versions/qoivd4qr/TrueHerobrine_1.0%2BNeo%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "d2c76271ba8bb4eb45b2622385e84fefebe4e6bf"
+
+[update]
+[update.modrinth]
+mod-id = "pY1lnc0y"
+version = "qoivd4qr"

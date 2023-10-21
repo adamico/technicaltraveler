@@ -1,0 +1,13 @@
+name = "Survivalist Essentials"
+filename = "SurvivalistEssentials-1.20.1-6.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hFW7KOhm/versions/ExkG14eZ/SurvivalistEssentials-1.20.1-6.1.2.2.jar"
+hash-format = "sha1"
+hash = "f9310e108071cbf264be79aad624e93b613acebb"
+
+[update]
+[update.modrinth]
+mod-id = "hFW7KOhm"
+version = "ExkG14eZ"

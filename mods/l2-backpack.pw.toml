@@ -1,0 +1,13 @@
+name = "L2 Backpack"
+filename = "l2backpack-2.4.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a243d6739c5cf9cf5c5acace7f3b55902270605"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4780168
+project-id = 620229

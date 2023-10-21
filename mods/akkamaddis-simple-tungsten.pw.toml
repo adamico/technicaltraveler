@@ -1,0 +1,13 @@
+name = "akkamaddi's Simple Tungsten"
+filename = "SimpleTungsten-1.20.1-5.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hLdNOLJ9/versions/IcCCeEcQ/SimpleTungsten-1.20.1-5.0.0.0.jar"
+hash-format = "sha1"
+hash = "8c0b08f1fe8548b17242991e9a3c26e8f4a23e06"
+
+[update]
+[update.modrinth]
+mod-id = "hLdNOLJ9"
+version = "IcCCeEcQ"

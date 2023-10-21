@@ -1,0 +1,13 @@
+name = "HexLands"
+filename = "hexlands-forge-1.20-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jkmTQqWQ/versions/rUI3y31K/hexlands-forge-1.20-5.0.0.jar"
+hash-format = "sha1"
+hash = "c3b9c13fd4f604408364db69f1e3d0901e14108d"
+
+[update]
+[update.modrinth]
+mod-id = "jkmTQqWQ"
+version = "rUI3y31K"

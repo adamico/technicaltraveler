@@ -1,0 +1,13 @@
+name = "Statues"
+filename = "Statues-1.20.1-0.3.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hsCeX7k7/versions/3MOmusa6/Statues-1.20.1-0.3.6.4.jar"
+hash-format = "sha1"
+hash = "0ac2a7d1f45fedbdc74eb29d4c8e3401ac44a145"
+
+[update]
+[update.modrinth]
+mod-id = "hsCeX7k7"
+version = "3MOmusa6"

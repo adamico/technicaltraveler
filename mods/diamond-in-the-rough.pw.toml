@@ -1,0 +1,13 @@
+name = "Diamond In The Rough"
+filename = "ditr-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TBVbrjYL/versions/XzfUmFQc/ditr-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "797fbceed4f577ed209132de8d15f5eb731835b7"
+
+[update]
+[update.modrinth]
+mod-id = "TBVbrjYL"
+version = "XzfUmFQc"

@@ -1,0 +1,13 @@
+name = "akkamaddi's Arsenic and Lace"
+filename = "ArsenicAndLace-1.20.1-6.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aCPjMlRI/versions/xZuqwE0F/ArsenicAndLace-1.20.1-6.0.0.0.jar"
+hash-format = "sha1"
+hash = "96bcd73361bda936f428c3fcb313824537c4a368"
+
+[update]
+[update.modrinth]
+mod-id = "aCPjMlRI"
+version = "xZuqwE0F"

@@ -1,0 +1,13 @@
+name = "Create: Missions"
+filename = "Missions-0.1.1.e.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KN33kvHF/versions/J7QXbJtY/Missions-0.1.1.e.jar"
+hash-format = "sha1"
+hash = "b714d7457a541cf011199ef3ff191011b7c38132"
+
+[update]
+[update.modrinth]
+mod-id = "KN33kvHF"
+version = "J7QXbJtY"

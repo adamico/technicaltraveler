@@ -1,0 +1,13 @@
+name = "KrystalCraft"
+filename = "KrystalCraft-forge-0.0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/beqWIsWi/versions/syWqBEDy/KrystalCraft-forge-0.0.4.1.jar"
+hash-format = "sha1"
+hash = "9cbb3b3f1945ecd39a8c044c823c2761a3038362"
+
+[update]
+[update.modrinth]
+mod-id = "beqWIsWi"
+version = "syWqBEDy"

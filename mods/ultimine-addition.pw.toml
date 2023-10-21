@@ -1,0 +1,13 @@
+name = "FTB Ultimine Addition (Forge/Fabric)"
+filename = "ultimine_addition-forge-1.20.1-v0.1.1a-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cfb69d00f519df27f2e704b766a90ea5281a6c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4796950
+project-id = 733166

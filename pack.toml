@@ -1,0 +1,13 @@
+name = "New Pack"
+author = "kc00l"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "23ace2481278502ea3297c3f7217c6a480fb03d230fc79de625448944771a877"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.79"

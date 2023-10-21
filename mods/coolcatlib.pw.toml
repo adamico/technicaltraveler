@@ -1,0 +1,13 @@
+name = "CoolCatLib"
+filename = "coolcat_lib-forge-1.20.1-v1.0.0-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "616994aa29d008597e530215bfa771bf9cba2be9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4790296
+project-id = 916525

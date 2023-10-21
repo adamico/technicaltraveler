@@ -1,0 +1,13 @@
+name = "No Dimensions"
+filename = "NeoForge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UqdL217I/versions/4qKWmWEP/NeoForge%201.20.1.jar"
+hash-format = "sha1"
+hash = "fe13735d0802d5e5c654072087fc47b0c6ed369a"
+
+[update]
+[update.modrinth]
+mod-id = "UqdL217I"
+version = "4qKWmWEP"

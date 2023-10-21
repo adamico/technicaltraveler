@@ -1,0 +1,13 @@
+name = "Ancient Debris in Overworld"
+filename = "AncientDebrisIO-1.20.1-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BrU4PoB/versions/OfvNFkSr/AncientDebrisIO-1.20.1-3.jar"
+hash-format = "sha1"
+hash = "fa97fa66b1cdfd31065e478daf554e12f62b2d1e"
+
+[update]
+[update.modrinth]
+mod-id = "8BrU4PoB"
+version = "OfvNFkSr"

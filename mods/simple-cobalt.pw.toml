@@ -1,0 +1,13 @@
+name = "akkamaddi's Simple Cobalt"
+filename = "SimpleCobalt-1.20.1-5.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QBZIhLKb/versions/3zfoyjgO/SimpleCobalt-1.20.1-5.0.0.0.jar"
+hash-format = "sha1"
+hash = "88d78aeb1b2fad6c6cabd3225eca69a353136fb7"
+
+[update]
+[update.modrinth]
+mod-id = "QBZIhLKb"
+version = "3zfoyjgO"

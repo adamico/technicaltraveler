@@ -1,0 +1,13 @@
+name = "Hyperbox"
+filename = "hyperbox-1.20.1-4.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRfPwYyB/versions/ztHPPWYu/hyperbox-1.20.1-4.0.0.1.jar"
+hash-format = "sha1"
+hash = "e4d5d8aa6bc3e74d442652dee52683079a087293"
+
+[update]
+[update.modrinth]
+mod-id = "bRfPwYyB"
+version = "ztHPPWYu"

@@ -1,0 +1,13 @@
+name = "KubeJS"
+filename = "kubejs-forge-2001.6.3-build.73.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/zTmYcmhM/kubejs-forge-2001.6.3-build.73.jar"
+hash-format = "sha1"
+hash = "4ba0b60ebc9716c500876802a2ffb88f31350ce1"
+
+[update]
+[update.modrinth]
+mod-id = "umyGl7zF"
+version = "zTmYcmhM"

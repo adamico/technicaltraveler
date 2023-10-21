@@ -1,0 +1,13 @@
+name = "Tempad"
+filename = "tempad-forge-1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a48780ab7180ac94b25b125e99414ca82ade15b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4674013
+project-id = 514923

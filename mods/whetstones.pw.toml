@@ -1,0 +1,13 @@
+name = "Whetstones"
+filename = "whetstones-1.0.1-forge-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M97mSTbc/versions/LPu6Z88v/whetstones-1.0.1-forge-mc1.20.jar"
+hash-format = "sha1"
+hash = "3915e41e7c1568fce3c1e9e66e70b9eff5be0b6d"
+
+[update]
+[update.modrinth]
+mod-id = "M97mSTbc"
+version = "LPu6Z88v"

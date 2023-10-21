@@ -1,0 +1,13 @@
+name = "Common Sense"
+filename = "Common Sense [NeoForge] (1.20.1) V1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QG4kBjLq/versions/nFZDHcEf/Common%20Sense%20%5BNeoForge%5D%20%281.20.1%29%20V1.0.6.jar"
+hash-format = "sha1"
+hash = "06580c4769b3f4bb73ff5e01098aac6ea6461a54"
+
+[update]
+[update.modrinth]
+mod-id = "QG4kBjLq"
+version = "nFZDHcEf"

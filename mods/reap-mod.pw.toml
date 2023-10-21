@@ -1,0 +1,13 @@
+name = "Reap Mod"
+filename = "reap-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NYHbcKK1/versions/OrChXjUy/reap-1.20.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "d7e8d66e98b35c3b0bfbf49d501518faae92372b"
+
+[update]
+[update.modrinth]
+mod-id = "NYHbcKK1"
+version = "OrChXjUy"
